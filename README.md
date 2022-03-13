@@ -10,5 +10,5 @@ domain.
 I am amazed by Artificial Intelligence, the creation of neural networks with Deep Learning to solve difficult problems that escape classical programming.
 My future career and my professional goal is to become a Machine Learning Engineer
 
-![Prince Gedeon 's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince9603&show_icons=true)
+![Prince Gedeon 's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeGedeon&show_icons=true)
 
