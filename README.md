@@ -1,6 +1,6 @@
-### Nice to meet you! 👋
+## Nice to meet you! 👋
 
-Machine Learning Ingineer,Developper Python,FullStack Django and React JS
+#Machine Learning Ingineer,Developper Python,FullStack Django and React JS
 
 I have been passionate about computer Science in general, for many years. The fact
 to create applications, to configure systems, to control
