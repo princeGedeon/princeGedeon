@@ -16,11 +16,13 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tools and Technology
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![TENSORFLOW] (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PANDAS] (https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Github stats
 
@@ -30,8 +32,3 @@ My future career and my professional goal is to become a Machine Learning Engine
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon" />
 </a>
-
-
-
-![Prince Gedeon 's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeGedeon&show_icons=true)
-
