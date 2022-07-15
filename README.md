@@ -34,4 +34,4 @@ My future career and my professional goal is to become a Machine Learning Engine
 </a>
 
 ### Github Trophy
-https://github-profile-trophy.vercel.app/?username=princeGedeon
+[!https://github-profile-trophy.vercel.app/?username=princeGedeon]
