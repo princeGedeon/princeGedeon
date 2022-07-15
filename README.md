@@ -16,7 +16,7 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&langs_count=5)](https://github.com/princeGedeon/github-readme-stats)
 
 
 ### Tools and Technology
@@ -34,4 +34,4 @@ My future career and my professional goal is to become a Machine Learning Engine
 </a>
 
 ### Github Trophy
-[!https://github-profile-trophy.vercel.app/?username=princeGedeon]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=princeGedeon)](https://github-profile-trophy.vercel.app/?username=princeGedeon)
