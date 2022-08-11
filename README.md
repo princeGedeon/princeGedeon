@@ -1,5 +1,6 @@
 ## Nice to meet you! 👋
 <img align="right"  src='https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif' width='200'>
+
 #### Machine Learning Engineer,Developper Python,FullStack Django , React and Next JS and Flutter
 
 I have been passionate about computer Science in general, for many years. The fact
