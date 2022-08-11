@@ -1,7 +1,7 @@
 ## Nice to meet you! 👋
-
-#### Machine Learning Engineer,Developper Python,FullStack Django , React and Next JS and Flutter
 <img align="right"  src='https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif' width='200'>
+#### Machine Learning Engineer,Developper Python,FullStack Django , React and Next JS and Flutter
+
 I have been passionate about computer Science in general, for many years. The fact
 to create applications, to configure systems, to control
 remote machines are are all things that pushed me into this
