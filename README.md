@@ -48,3 +48,44 @@ My future career and my professional goal is to become a Machine Learning Engine
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{princeGedeon}/count.svg" /></p> 
 <br></div>
+
+
+
+
+<p align="center">
+<!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+ <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+</p>
+<hr>
+
+<!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
+
+<!-- START NEW SECTION -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
+
+  </p>
+<!--   
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
