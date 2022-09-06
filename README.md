@@ -28,11 +28,6 @@ My future career and my professional goal is to become a Machine Learning Engine
 ) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)[![NextJS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)](https://nextjs.org/) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<!-- START NEW SECTION -->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{princeGedeon}/count.svg" /></p> 
-<br></div>
 
 ### Github stats
 
@@ -45,3 +40,11 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 ### Github Trophy
 [![Trophy](https://github-profile-trophy.vercel.app/?username=princeGedeon)](https://github-profile-trophy.vercel.app/?username=princeGedeon)
+
+
+
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{princeGedeon}/count.svg" /></p> 
+<br></div>
