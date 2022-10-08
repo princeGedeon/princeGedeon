@@ -1,7 +1,7 @@
 ## Nice to meet you! 👋
 <img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
-#### Machine Learning Engineer,Developper Python,FullStack Django , React and Next JS and Flutter
+#### Machine Learning Engineer,Python Developper ,Next JS - Django
 
 I have been passionate about computer Science in general, for many years. The fact
 to create applications, to configure systems, to control
