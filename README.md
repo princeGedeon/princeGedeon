@@ -76,12 +76,7 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&layout=compact)
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon" alt="princeGedeon" />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p>
 
 
 <!-- GITHUB ACTIVITY GRAPH -->
@@ -90,6 +85,13 @@ My future career and my professional goal is to become a Machine Learning Engine
   </p>
 <!--   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
