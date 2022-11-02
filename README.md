@@ -74,6 +74,10 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 <!-- START NEW SECTION -->
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&layout=compact)
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon" alt="princeGedeon" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
