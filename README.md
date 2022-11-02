@@ -29,14 +29,7 @@ My future career and my professional goal is to become a Machine Learning Engine
 
 
 
-### Github stats
 
-<a href="https://github-readme-stats.vercel.app/api/?username=princeGedeon&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=princeGedeon&show_icons=true&count_private=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon" />
-</a>
 
 ### Github Trophy
 [![Trophy](https://github-profile-trophy.vercel.app/?username=princeGedeon)](https://github-profile-trophy.vercel.app/?username=princeGedeon)
@@ -85,13 +78,9 @@ My future career and my professional goal is to become a Machine Learning Engine
   </p>
 <!--   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
+  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p>
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
