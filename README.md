@@ -58,24 +58,11 @@ My future career and my professional goal is to become a Machine Learning Engine
  <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
  
  
-![Jokes Card](https://readme-jokes.vercel.app/api)
- 
- 
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-<br>
-</div>
-
-<!-- START NEW SECTION -->
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princeGedeon&layout=compact)
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeGedeon" alt="princeGedeon" />
-
 
 
 <!-- GITHUB ACTIVITY GRAPH -->
 <!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
 
-  </p>
 <!--   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
   
